@@ -1,0 +1,7 @@
+{
+  "name": "mawb-cargo-tracking-tool-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bulk MAWB cargo tracking UI for IndiGo 6eCargo, hosted entirely on Netlify (static site + one zero-dependency serverless function). No installs needed.",
+  "type": "module"
+}
